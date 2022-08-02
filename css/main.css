@@ -109,9 +109,17 @@ textarea {
    margin: 0 0 0 15px;
   } 
 #HTML{
-    float: right;    
-     margin: 0 0 0 15px;
-    } 
+  float: right;    
+   margin: 0 0 0 15px;
+  } 
+#MARK{
+  float: left;    
+   margin: 0 0 0 15px;
+ } 
+#SQL{
+  float: right;    
+   margin: 0 0 0 15px;
+  } 
 .subheading{
     font-size: 20px;;
 }.heading{
