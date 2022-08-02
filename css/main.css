@@ -105,19 +105,19 @@ textarea {
   margin-bottom: 4px;
 } 
 #CSS{
-  float: center;    
+  float: inline-start;    
    margin: 15px 15px 15px 15px;
   } 
 #HTML{
-  float: center;    
+  float: left;    
    margin: 0 0 0 15px;
   } 
 #MARK{
-  float: center;    
+  float: left;    
    margin: 0 0 0 15px;
  } 
 #SQL{
-  float: center;    
+  float: left;    
    margin: 0 0 0 15px;
   } 
 .subheading{
