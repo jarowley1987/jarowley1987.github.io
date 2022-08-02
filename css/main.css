@@ -96,8 +96,14 @@ textarea {
     margin-bottom: 4px;
 }body{
     font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif; font-size:10px;
+ 
     
 }
+.contactinfo{
+  padding-left:16px;
+  padding-bottom: 8px;
+  margin-bottom: 4px;
+}  
 .subheading{
     font-size: 20px;;
 }.heading{
