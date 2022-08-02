@@ -105,7 +105,7 @@ textarea {
   margin-bottom: 4px;
 } 
 #CSS{
-  float: inline-start;    
+  float: left;    
    margin: 15px 15px 15px 15px;
   } 
 #HTML{
