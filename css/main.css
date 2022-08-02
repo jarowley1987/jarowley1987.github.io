@@ -90,7 +90,7 @@ textarea {
     
 .intro{
     background-color: #C7BCDC;
-    font-size: 10px;
+    font-size: 16px;
     padding-left:16px;
     padding-bottom: 8px;
     margin-bottom: 4px;
@@ -111,7 +111,7 @@ textarea {
 .subheading{
     font-size: 20px;
     font-weight: bolder;
-    padding-left:15px;
+    padding-left:20px;
 }.intro{
     background-color: #2F5A78;
     color: white;
@@ -121,7 +121,6 @@ textarea {
     font-weight: bolder;
     color: #2F5A78;
     padding-left:15px;
-    float:right
 }
 .icon{
     color: #2F5A78;
